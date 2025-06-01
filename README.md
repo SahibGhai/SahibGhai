@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning a few new technologies!
 - 💞️ I’m looking to collaborate on anything you are interested in!
 - I AM STILL WORKING ON ADDING ALL MY PROJECTS TO THIS ACCOUNT!!!
-- 📫 How to reach me you can reach me at sahibghai@gmail.com, or 
-you can reach me through my YouTube channel: https://youtube.com/channel/UCG6II_Z16TYnRv59aIP8xDA
+- 📫 You can reach me at sahibghai@gmail.com
 
 <!---
 SahibGhai/SahibGhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
